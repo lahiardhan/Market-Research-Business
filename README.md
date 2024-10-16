@@ -42,12 +42,6 @@ Dengan memahami faktor-faktor utama yang mempengaruhi churn di DQLab Sport Cente
 
 ---
 
-## Files
-- `data/`: Folder berisi data transaksi pelanggan.
-- `notebooks/`: Notebook yang berisi eksplorasi data, training model, dan analisis.
-- `src/`: Kode sumber untuk preprocessing data, training model, dan evaluasi model.
-- `README.md`: File ini, berisi ringkasan proyek dan deskripsi langkah-langkah yang diambil.
-
 ## Libraries
 - Python 3.x
 - Pandas
@@ -61,6 +55,3 @@ Dengan memahami faktor-faktor utama yang mempengaruhi churn di DQLab Sport Cente
 3. Jalankan notebook pada folder `notebooks/` untuk mengikuti langkah-langkah analisis.
 
 ---
-
-## Contact
-Untuk pertanyaan lebih lanjut, silakan hubungi [email@example.com].
